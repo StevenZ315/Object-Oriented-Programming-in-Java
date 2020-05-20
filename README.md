@@ -5,4 +5,4 @@ This course is offered at <a href="https://www.coursera.org">Coursera</a> and is
 
 This is the third course of the Specialization, <a href="https://www.coursera.org/learn/object-oriented-java">Link to the course</a>.
 
-Here's my <a href = "">certificate</a> on completing the course.
+Here's my <a href = "https://www.coursera.org/account/accomplishments/specialization/WFH5FHFNKMZC">certificate</a> on completing the course.
